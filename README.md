@@ -7,3 +7,9 @@ Store GFY shows good sales results because from 2017-2020 total sales have an in
 # Insight Deep Dive
 ## Sales Trends and Growth Rates
 ![sales_total](https://github.com/danendrafi/tes1/blob/main/visualization/total_sales.png)
+
+- Store GFY averages $282 Million in sales per year with 2,497 orders per year
+- In 2019 showed the highest sales increase trend of 23.28%, but the trend declined in 2020 because the pandemic started to spread
+- Store GFY seasonality, with peak sales 2017 on September, 2018 on November, 2019 on September, 2020 November.  This shows that the end of the year has significant sales.
+- Contribute Seasonality Peak: Central Region on 2019 contribute $ 38,641,581 (56%), East Region on 2020 contribute $ 17,546,595, Central Region on 2017 $ 21,150,788 (51,56%), 
+
