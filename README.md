@@ -1,4 +1,4 @@
-**Project Background	**
+**Project Background**
 
 Sales in this data has the name Store GFY which operates in the United States by selling various types of Office Supplies, Furniture and Technology product categories.
 
