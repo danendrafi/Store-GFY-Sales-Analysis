@@ -6,4 +6,4 @@ Store GFY shows good sales results because from 2017-2020 total sales have an in
 
 # Insight Deep Dive
 ## Sales Trends and Growth Rates
-![sales_total]()
+![sales_total](https://github.com/danendrafi/tes1/blob/main/visualization/total_sales.png)
