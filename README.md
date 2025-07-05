@@ -14,5 +14,5 @@ Store GFY shows good sales results because from 2017-2020 total sales have an in
 - Contribute Seasonality Peak: Central Region on 2019 contribute $ 38,641,581 (56%), East Region on 2020 contribute $ 17,546,595, Central Region on 2017 $ 21,150,788 (51,56%)
 ![sales_total](https://github.com/danendrafi/tes1/blob/main/visualization/total_sales.png)
 ![sales_month](http://github.com/danendrafi/tes1/blob/main/visualization/total_sales_by_month.png)
-
+![](https://github.com/danendrafi/tes1/blob/main/visualization/count_mont.png)
 
