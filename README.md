@@ -11,15 +11,30 @@ Store GFY shows good sales results because from 2017-2020 total sales have an in
 - In 2019 showed the highest sales increase trend of 23.28%, but the trend declined in 2020 because the pandemic started to spread
 - Store GFY seasonality, with peak sales 2017 on September, 2018 on November, 2019 on September, 2020 November.  This shows that the end of the year
   has significant sales.
-- Contribute Seasonality Peak: Central Region on 2019 contribute $ 38,641,581 (56%), East Region on 2020 contribute $ 17,546,595, Central Region on 2017 $ 21,150,788 (51,56%)
+- Contribute Seasonality Peak: Central Region on 2019 contribute $38,641,581 (56%), East Region on 2020 contribute $17,546,595, Central Region on 2017 $21,150,788 (51,56%)
   
 ![sales_total](https://github.com/danendrafi/tes1/blob/main/visualization/total%20sales.png)
 
+## Total Sales per Month and Year
+- Every year, the beginning of the month of sales tends to be sluggish, seen in January and February are still low then starting in March sales increase
+- Bookcase sales greatly affect sales, it can be seen that in September 2019 sales were dominated, however in October no one bought bookcase sales.
+- The highest sales were in September 2019 with $68,999,178 as many as 363 buyers with the highest BookCase s category as the sales category
+
 ![](https://github.com/danendrafi/tes1/blob/main/visualization/Graphic%20Sales%20per%20Month.png)
+
+## Average Order Value per Month and Year
+- Average sales at $113,155 with
 
 ![](https://github.com/danendrafi/tes1/blob/main/visualization/Graphic%20Aov%20per%20Month.png)
 
-![](https://github.com/danendrafi/tes1/blob/main/visualization/Graphicn%20Order%20per%20Month.png)
+## Total Order per Month and Year
+
+- In accordance with sales that high sales frequency at the end of the year is followed by high total orders
+- The highest total order was in 2019 in September, amounting to 458
+- Every year the order trend tends to have an upward trend
+- In October there was an anomaly where September sales that soared sharply decreased, due to the dominance of sales in California which was initially $12,260,834 to $3,841,734
+
+![](https://github.com/danendrafi/tes1/blob/main/visualization/Graphic%20Order%20per%20Month.png)
 
 ## Key Product Categories Performance
 - The product with the highest total sales was the Riverside Palais Lawyers Bookcase, Royale Cherry Finish with a total of $30,041,419 where the
@@ -33,7 +48,7 @@ Store GFY shows good sales results because from 2017-2020 total sales have an in
 
 ![](https://github.com/danendrafi/tes1/blob/main/visualization/Product%20Sales.png)
 
-## Margin 
+## Margin Profit Each Region
 - The areas with the highest profit margins in the top 3 in each area; Central Area First Minnesota $2,876, Second is Missouri $2,767, Third is South Dakota $2,529 followed by South Area, Arkansas City $2,770, second Mississippi $2,688 and third is Kentucky City 2,220 and in the East Area, District of Columbia $3,695, Delware $2,861, Maine $2,552 while in the West Area in Utah City $826, Second is New Mexico City $675 and Third is Washington $556.
 - In the Minnesota region, the highest sales were achieved in the Binder sales category of $1,242,218, followed by the Arkansas region which was also dominated by Binder sales of $288,983, then the District of Columbia region was dominated by Machines sales of $137,992 and the Utah City region was dominated by Binders sales of $547,084.
 - Binders are consecutive sales in the three Top 1s in each region that have the highest sales so that this can be further encouraged by sellers.
