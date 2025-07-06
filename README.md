@@ -14,8 +14,12 @@ Store GFY shows good sales results because from 2017-2020 total sales have an in
 - Contribute Seasonality Peak: Central Region on 2019 contribute $ 38,641,581 (56%), East Region on 2020 contribute $ 17,546,595, Central Region on 2017 $ 21,150,788 (51,56%)
   
 ![sales_total](https://github.com/danendrafi/tes1/blob/main/visualization/total%20sales.png)
+
 ![](https://github.com/danendrafi/tes1/blob/main/visualization/Graphic%20Aov%20per%20Month.png)
-![]()
+
+![](https://github.com/danendrafi/tes1/blob/main/visualization/Graphic%20Aov%20per%20Month.png)
+
+![](https://github.com/danendrafi/tes1/blob/main/visualization/Graphicn%20Order%20per%20Month.png)
 
 ## Key Product Categories Performance
 - The product with the highest total sales was the Riverside Palais Lawyers Bookcase, Royale Cherry Finish with a total of $30,041,419 where the
