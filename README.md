@@ -23,7 +23,9 @@ Store GFY shows good sales results because from 2017-2020 total sales have an in
 ![](https://github.com/danendrafi/tes1/blob/main/visualization/Graphic%20Sales%20per%20Month.png)
 
 ## Average Order Value per Month and Year
-- Average sales at $113,155 with
+- Average sales in January 2018 were the highest at $400,920, but total sales in January were sluggish, so sluggish sales average sales were effective.
+- Average sales in 2020 are still under supervision, because compared to other years, 2020 had a low AOV of $107,328
+- Average sales in 2020 tended to be sluggish because the number of buyers was high but was unable to increase sales.
 
 ![](https://github.com/danendrafi/tes1/blob/main/visualization/Graphic%20Aov%20per%20Month.png)
 
