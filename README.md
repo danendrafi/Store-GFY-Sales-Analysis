@@ -12,6 +12,7 @@ Store GFY shows good sales results because from 2017-2020 total sales have an in
 - Store GFY seasonality, with peak sales 2017 on September, 2018 on November, 2019 on September, 2020 November.  This shows that the end of the year
   has significant sales.
 - Contribute Seasonality Peak: Central Region on 2019 contribute $ 38,641,581 (56%), East Region on 2020 contribute $ 17,546,595, Central Region on 2017 $ 21,150,788 (51,56%)
+  
 ![sales_total](https://github.com/danendrafi/tes1/blob/main/visualization/total%20sales.png)
 ![](https://github.com/danendrafi/tes1/blob/main/visualization/total%20sales%20month.png)
 ![](https://github.com/danendrafi/tes1/blob/main/visualization/AOV%20month.png)
@@ -34,3 +35,6 @@ Margin
 - The areas with the highest profit margins in the top 3 in each area; Central Area First Minnesota $2,876, Second is Missouri $2,767, Third is South Dakota $2,529 followed by South Area, Arkansas City $2,770, second Mississippi $2,688 and third is Kentucky City 2,220 and in the East Area, District of Columbia $3,695, Delware $2,861, Maine $2,552 while in the West Area in Utah City $826, Second is New Mexico City $675 and Third is Washington $556.
 - In the Minnesota region, the highest sales were achieved in the Binder sales category of $1,242,218, followed by the Arkansas region which was also dominated by Binder sales of $288,983, then the District of Columbia region was dominated by Machines sales of $137,992 and the Utah City region was dominated by Binders sales of $547,084.
 - Binders are consecutive sales in the three Top 1s in each region that have the highest sales so that this can be further encouraged by sellers.
+
+![](https://github.com/danendrafi/tes1/blob/main/visualization/Margin%20East%20and%20West.png)
+![](https://github.com/danendrafi/tes1/blob/main/visualization/Central%20and%20South.png)
