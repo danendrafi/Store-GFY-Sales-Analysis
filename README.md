@@ -16,6 +16,7 @@ Store GFY shows good sales results because from 2017-2020 total sales have an in
 ![sales_total](https://github.com/danendrafi/tes1/blob/main/visualization/total%20sales.png)
 
 ![](https://github.com/danendrafi/tes1/blob/main/visualization/Graphic%20Sales%20per%20Month.png)
+
 ![](https://github.com/danendrafi/tes1/blob/main/visualization/Graphicn%20%20Order%20per%20Month.png)
 
 ## Key Product Categories Performance
