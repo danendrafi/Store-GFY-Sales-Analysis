@@ -27,4 +27,4 @@ Store GFY shows good sales results because from 2017-2020 total sales have an in
 - Of the Top 5 buyers, Anna Gayman, Craig Molinori, Amy Hunt, Patrick O’Brill, Emily Phan are among the loyal customers who should be given
   special promotions in the form of their favorite things to buy.
 
-
+![](https://github.com/danendrafi/tes1/blob/main/visualization/Product%20Sales.png)
